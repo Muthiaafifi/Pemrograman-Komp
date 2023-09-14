@@ -68,18 +68,12 @@ li {
 .copy-container span {
   color: ##ff4a4a;
 }
-.footer {
-  background-color: #2f5167;
-  color: #fff;
-  height: 120px;
+.contents {
+  height: 500px;
 }
-.footer-logo {
-  font-size:32px;
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+}
+.contents-item {
   float: left;
-}
-.footer-list {
-  float: right;
-}
-.footer-list li{
-  padding-bottom: 20px;
 }
